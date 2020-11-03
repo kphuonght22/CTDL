@@ -1,0 +1,24 @@
+TOPbank: Fri Oct 30 01:12:07 2020
+So tai khoan: 10000000000007
+So tien GD: 1300000
+So du cuoi: 1300000
+Noi dung: Nap tien
+*************************
+TOPbank: Fri Oct 30 01:14:12 2020
+So tai khoan: 10000000000007
+So tien GD: 50000
+So du cuoi: 1250000
+Noi dung: Rut tien
+*************************
+TOPbank: Fri Oct 30 21:36:08 2020
+So tai khoan: 10000000000007
+So tien GD: 300000
+So du cuoi: 950000
+Noi dung: Chuyen tien cho [10000000000005]
+*************************
+TOPbank: Fri Oct 30 21:40:16 2020
+So tai khoan: 10000000000007
+So tien GD: 300000
+So du cuoi: 1250000
+Noi dung: Nhan tien tu [10000000000005]
+*************************

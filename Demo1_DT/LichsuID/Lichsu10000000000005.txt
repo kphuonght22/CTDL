@@ -1,0 +1,66 @@
+TOPbank: Fri Oct 23 19:59:40 2020
+So tai khoan: 10000000000005
+So tien GD: 1502000
+So du cuoi: 1502000
+Noi dung: Nap tien
+***************************
+TOPbank: Fri Oct 30 20:05:48 2020
+So tai khoan: 10000000000005
+So tien GD: 50000
+So du cuoi: 1452000
+Noi dung: Rut tien
+*************************
+TOPbank: Fri Oct 30 20:08:52 2020
+So tai khoan: 10000000000005
+So tien GD: 50000
+So du cuoi: 1402000
+Noi dung: Rut tien
+*************************
+TOPbank: Fri Oct 30 20:11:37 2020
+So tai khoan: 10000000000005
+So tien GD: 50000
+So du cuoi: 1352000
+Noi dung: Rut tien
+*************************
+TOPbank: Fri Oct 30 20:11:49 2020
+So tai khoan: 10000000000005
+So tien GD: 100000
+So du cuoi: 1252000
+Noi dung: Rut tien
+*************************
+TOPbank: Fri Oct 30 20:12:59 2020
+So tai khoan: 10000000000005
+So tien GD: 50000
+So du cuoi: 252000
+Noi dung: Rut tien
+*************************
+TOPbank: Fri Oct 30 20:18:17 2020
+So tai khoan: 10000000000005
+So tien GD: 50000
+So du cuoi: 202000
+Noi dung: Rut tien
+*************************
+TOPbank: Fri Oct 30 21:10:53 2020
+So tai khoan: 10000000000005
+So tien GD: 50000
+So du cuoi: 152000
+Noi dung: Rut tien
+*************************
+TOPbank: Fri Oct 30 21:40:16 2020
+So tai khoan: 10000000000005
+So tien GD: 300000
+So du cuoi: 248000
+Noi dung: Chuyen tien cho [10000000000007]
+*************************
+TOPbank: Fri Oct 30 21:40:38 2020
+So tai khoan: 10000000000005
+So tien GD: 50000
+So du cuoi: 198000
+Noi dung: Rut tien
+*************************
+TOPbank: Fri Oct 30 21:43:07 2020
+So tai khoan: 10000000000005
+So tien GD: 100000
+So du cuoi: 98000
+Noi dung: Rut tien
+*************************

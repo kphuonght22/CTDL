@@ -1,0 +1,6 @@
+﻿  Demo.cpp
+C:\Users\LE KHANH DUY\Downloads\Demo1_DT\Demo1_DT\Demo1_DT\Demo.cpp(163,10): warning C4101: 'ch': unreferenced local variable
+C:\Users\LE KHANH DUY\Downloads\Demo1_DT\Demo1_DT\Demo1_DT\Demo.cpp(192,10): warning C4101: 'ch': unreferenced local variable
+C:\Users\LE KHANH DUY\Downloads\Demo1_DT\Demo1_DT\Demo1_DT\Demo.cpp(353,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\LE KHANH DUY\Downloads\Demo1_DT\Demo1_DT\Demo1_DT\Demo.cpp(566,22): warning C4018: '<': signed/unsigned mismatch
+  Demo1_DT.vcxproj -> C:\Users\LE KHANH DUY\Downloads\Demo1_DT\Demo1_DT\Debug\Demo1_DT.exe

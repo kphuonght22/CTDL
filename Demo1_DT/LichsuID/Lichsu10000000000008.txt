@@ -1,0 +1,6 @@
+TOPbank: Sat Oct 31 20:14:04 2020
+So tai khoan: 10000000000008
+So tien GD: 1500000
+So du cuoi: 1500000
+Noi dung: Nap tien
+*************************
